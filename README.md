@@ -8,14 +8,12 @@
 
 ##Table of Contents
 
-1. 🤖 [Introduction](#introduction)
-2. 🔋 [Features](#features)
-3. ⚙️ [Architecture](#architecture)
-4. 🤸 [Setup and Deployment](#setup-and-deployment)
-5. 🚀 [Usage](#usage)
-6. 🤝 [Contributing](#contributing)
-7. 📜 [License](#license)
-
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Architecture](#architecture)
+4. [Setup and Deployment](#setup-and-deployment)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
 ##Introduction
 
 AuditorAI provides an easy and efficient way to audit your smart contracts using AI. It interacts with the OpenAI API to analyze and generate detailed reports on the provided smart contract code.
