@@ -6,7 +6,7 @@
   </div>
 </div>
 
-## 📋 Table of Contents
+##Table of Contents
 
 1. 🤖 [Introduction](#introduction)
 2. 🔋 [Features](#features)
@@ -16,23 +16,23 @@
 6. 🤝 [Contributing](#contributing)
 7. 📜 [License](#license)
 
-## 🤖 Introduction
+##Introduction
 
 AuditorAI provides an easy and efficient way to audit your smart contracts using AI. It interacts with the OpenAI API to analyze and generate detailed reports on the provided smart contract code.
 
-## 🔋 Features
+## Features
 
 - **AI-Powered Auditing**: Leverages OpenAI to generate comprehensive audit reports.
 - **Command Line Tool**: Provides a CLI for easy integration into development workflows.
 - **User-Friendly Interface**: Offers an easy-to-use frontend for auditing smart contracts.
 
-## ⚙️ Architecture
+## Architecture
 
 1. **Command Line Tool**: `auditorai`
 2. **Frontend**: React-based user interface
 3. **API Integration**: OpenAI API
 
-## 🤸 Setup and Deployment
+## Setup and Deployment
 
 ### Prerequisites
 
@@ -66,7 +66,7 @@ npm run build
 npm install -g .
 ```
 
-## 🚀 Usage
+## Usage
 
 ### Using the CLI
 
@@ -87,12 +87,3 @@ npm run dev
 2. **Connect Wallet**: Connect your MetaMask wallet to the appropriate network.
 3. **Submit Contract Code**: Paste your smart contract code into the provided textarea and click "Analyze".
 4. **View Results**: After analysis, view the detailed audit report and metrics in the modal that appears.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
-
-This version should display correctly in your README. Adjust any specific details such as image links, repository links, and API keys to match your project.
-```
